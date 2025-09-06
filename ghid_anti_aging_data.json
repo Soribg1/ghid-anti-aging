@@ -1,0 +1,114 @@
+{
+  "generated_at": "06.09.2025",
+  "top8_avoid": [
+    {
+      "item": "Zahăr rafinat & dulciuri",
+      "why": "glicație, inflamație, riduri"
+    },
+    {
+      "item": "Patiserie & făină albă",
+      "why": "vârfuri glicemice, pierdere elasticitate"
+    },
+    {
+      "item": "Alcool",
+      "why": "deshidratare, deficit vitamina A"
+    },
+    {
+      "item": "Fast-food & prăjeli",
+      "why": "grăsimi trans, radicali liberi"
+    },
+    {
+      "item": "Carne procesată",
+      "why": "nitriți, inflamație"
+    },
+    {
+      "item": "Lactate integrale",
+      "why": "IGF-1, acnee"
+    },
+    {
+      "item": "Băuturi carbogazoase/energizante",
+      "why": "zahăr ridicat, acid fosforic"
+    },
+    {
+      "item": "Grăsimi hidrogenate/rafinate",
+      "why": "inflamație cronică"
+    }
+  ],
+  "best15": [
+    "Somon",
+    "Sardine",
+    "Macrou",
+    "Avocado",
+    "Nuci",
+    "Semințe de chia",
+    "Semințe de in",
+    "Fructe de pădure",
+    "Rodie",
+    "Kiwi",
+    "Ceai verde",
+    "Cacao pură",
+    "Broccoli",
+    "Kale",
+    "Spanac"
+  ],
+  "plan_day_example": {
+    "Mic dejun": "Smoothie cu afine, spanac și semințe de chia",
+    "Gustare": "Iaurt grecesc + nuci crude",
+    "Prânz": "Somon la cuptor cu broccoli și quinoa",
+    "Cină": "Curry de linte + salată verde"
+  },
+  "supplements": [
+    "Colagen + Vit C",
+    "Omega-3",
+    "Q10",
+    "Zinc",
+    "Seleniu",
+    "Astaxantină",
+    "Acid hialuronic"
+  ],
+  "tips": [
+    "SPF zilnic",
+    "2–2.5 L apă/zi",
+    "Somn 7–8 ore",
+    "Mișcare 150 min/săpt",
+    "Limitare zahăr"
+  ],
+  "habits_to_avoid": [
+    "Somn <6h",
+    "Exces cafea/alcool",
+    "Fumat",
+    "Fără SPF",
+    "Stres cronic",
+    "Zahăr ridicat",
+    "Deshidratare",
+    "Cosmetice agresive",
+    "Sedentarism",
+    "Exces ecrane"
+  ],
+  "calendar_weeks": [
+    [
+      "Ziua 1: Hidratare 8 pahare",
+      "Ziua 2: Mic dejun antioxidant",
+      "Ziua 3: 20 min mișcare",
+      "Ziua 4: Somn 7–8h"
+    ],
+    [
+      "Ziua 8: Somon/omega-3",
+      "Ziua 9: Fără zaharuri",
+      "Ziua 10: 7-8h somn",
+      "Ziua 11: Plimbare 30 min"
+    ],
+    [
+      "Ziua 16: Legume verzi",
+      "Ziua 17: Meditație 10 min",
+      "Ziua 18: SPF + pălărie",
+      "Ziua 19: Rețetă nouă"
+    ],
+    [
+      "Ziua 24: Evaluare progres",
+      "Ziua 25: Rețetă nouă",
+      "Ziua 26: Plimbare lungă",
+      "Ziua 27: Stretching 10 min"
+    ]
+  ]
+}
